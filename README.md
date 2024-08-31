@@ -52,3 +52,20 @@ nano image_encryptor.py
 chmod +x image_encryptor.py
 
 ![6](https://github.com/user-attachments/assets/e8d0cc4c-4437-4a47-bfd0-ef63a664f0bd)
+
+6. Now run the tool
+
+python image_encryptor.py
+
+![7](https://github.com/user-attachments/assets/f8194a90-ce8e-40ae-be6b-d16510e2c9fe)
+
+7. Now u can see the encrypted and decrypted file in the list directory then use eog tool to open the .png image file
+
+ Here encrypted_image.png
+
+ ![8](https://github.com/user-attachments/assets/147e87e2-d108-4bc8-a977-3caae55141d8)
+
+This is the image that is encrypted 
+
+![9](https://github.com/user-attachments/assets/67476c28-625b-49e6-b44e-c1b185757600)
+
