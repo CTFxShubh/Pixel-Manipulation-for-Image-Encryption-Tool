@@ -75,7 +75,7 @@ Additional Notes
 
 Image Formats: Ensure that input_image.png is in a format supported by Pillow. If your image is in a different format, update the script accordingly.
 
-Key: The key should be kept secret for security purposes. If you change the key, ensure to use the same key for both encryption and decryption.
+Key: The key should be kept secret for security purposes. If you change the key, ensure to use the same key for both encryption and decryption. Here in my case I used 123 as a key for both purposes  
 
 Conclusion
 
