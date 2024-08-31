@@ -37,5 +37,18 @@ pip install numpy
 
 ![3](https://github.com/user-attachments/assets/cc8c5d5b-0aa2-480d-9521-44fb0e0092d2)
 
-3. create the script using nano command and name the script as nano image_encryptor.py
+3. create the script using nano command 
 
+nano image_encryptor.py
+
+![4](https://github.com/user-attachments/assets/26519b1f-3c77-4054-919a-9a78a2837387)
+
+4. Write the python code in the file created above and then save it using command Ctrl x,y then press Enter to save the file
+
+![5](https://github.com/user-attachments/assets/d024be63-f3b0-4bad-aee8-c9cb9163e888)
+
+5. Give the executable permissions to the file
+
+chmod +x image_encryptor.py
+
+![6](https://github.com/user-attachments/assets/e8d0cc4c-4437-4a47-bfd0-ef63a664f0bd)
