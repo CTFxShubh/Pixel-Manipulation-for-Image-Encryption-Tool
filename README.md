@@ -31,9 +31,13 @@ git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-02.git
 
 pip install pillow 
 
+Pillow:- Handles image file opening, manipulation, and saving.
+
 ![2](https://github.com/user-attachments/assets/fa4b410e-49f5-4292-8dc9-325baeb5e327)
 
 pip install numpy
+
+NumPy: Converts images to NumPy arrays for easy pixel manipulation.
 
 ![3](https://github.com/user-attachments/assets/cc8c5d5b-0aa2-480d-9521-44fb0e0092d2)
 
