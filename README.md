@@ -22,3 +22,5 @@ This tool demonstrates fundamental encryption concepts and can be expanded to in
 Steps to Use the Tool on Linux:
 
 1. Clone the Repository To get started, first clone the repository from GitHub to your local Linux machine:
+
+git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-02.git
