@@ -69,3 +69,11 @@ This is the image that is encrypted
 
 ![9](https://github.com/user-attachments/assets/67476c28-625b-49e6-b44e-c1b185757600)
 
+Now decrypted_image.png
+
+![10](https://github.com/user-attachments/assets/81d79b5d-9be7-409a-8de9-4041c4fab215)
+
+This is the decrypted image that we used to encrypt
+
+![11](https://github.com/user-attachments/assets/12f838cd-1f7d-4382-8606-d295ad00da7b)
+
