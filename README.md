@@ -17,8 +17,6 @@ This Simple Image Encryption Tool is a Python-based application designed to prov
 
 2. Prototyping: Useful for quick, proof-of-concept encryption solutions.
 
-This tool demonstrates fundamental encryption concepts and can be expanded to include more sophisticated encryption methods as needed.
-
 ## Steps to Use the Tool on Linux:
 
 1. Clone the Repository To get started, first clone the repository from GitHub to your local Linux machine:
