@@ -27,4 +27,15 @@ git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-02.git
 
 ![1](https://github.com/user-attachments/assets/e378ce80-1e4e-4cc1-9a54-3d62f5e995fe)
 
-2. 
+2. Install required libraries:
+
+pip install pillow 
+
+![2](https://github.com/user-attachments/assets/fa4b410e-49f5-4292-8dc9-325baeb5e327)
+
+pip install numpy
+
+![3](https://github.com/user-attachments/assets/cc8c5d5b-0aa2-480d-9521-44fb0e0092d2)
+
+3. create the script using nano command and name the script as nano image_encryptor.py
+
