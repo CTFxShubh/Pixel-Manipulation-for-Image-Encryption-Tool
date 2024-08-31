@@ -55,7 +55,7 @@ python image_encryptor.py
 
 5. Now u can see the encrypted and decrypted file in the list directory then use eog tool to open the .png image file
 
- Here encrypted_image.png
+ eog encrypted_image.png
 
  ![8](https://github.com/user-attachments/assets/147e87e2-d108-4bc8-a977-3caae55141d8)
 
