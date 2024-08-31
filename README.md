@@ -87,3 +87,13 @@ Image Formats: Ensure that input_image.png is in a format supported by Pillow. I
 
 Key: The key should be kept secret for security purposes. If you change the key, ensure to use the same key for both encryption and decryption.
 
+Conclusion
+
+This Simple Image Encryption Tool offers a basic introduction to image encryption through direct pixel manipulation techniques. Utilizing XOR operations with a consistent key, this tool serves as an accessible starting point for understanding image encryption and decryption processes.
+
+Although primarily intended for educational use, the underlying concepts can be adapted and scaled to create more sophisticated encryption solutions. For improved security, consider exploring advanced cryptographic techniques and incorporating complex algorithms.
+
+We welcome contributions, suggestions, and any enhancements to this project. If you have any questions or need further assistance, please don't hesitate to reach out via email at shubhpatel931@gmail.com.
+
+Thank you for your interest in the Simple Image Encryption Tool!
+
