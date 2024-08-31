@@ -24,3 +24,7 @@ Steps to Use the Tool on Linux:
 1. Clone the Repository To get started, first clone the repository from GitHub to your local Linux machine:
 
 git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-02.git
+
+![1](https://github.com/user-attachments/assets/e378ce80-1e4e-4cc1-9a54-3d62f5e995fe)
+
+2. 
