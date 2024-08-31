@@ -28,13 +28,17 @@ git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-02.git
 
 2. Install required libraries:
 
+```bash
 pip install pillow 
+```
 
 Pillow:- Handles image file opening, manipulation, and saving.
 
 ![2](https://github.com/user-attachments/assets/fa4b410e-49f5-4292-8dc9-325baeb5e327)
 
+```bash
 pip install numpy
+```
 
 NumPy: Converts images to NumPy arrays for easy pixel manipulation.
 
@@ -42,41 +46,48 @@ NumPy: Converts images to NumPy arrays for easy pixel manipulation.
 
 3. Give the executable permissions to the file
 
+```bash
 chmod +x image_encryptor.py
-
+```
 ![6](https://github.com/user-attachments/assets/e8d0cc4c-4437-4a47-bfd0-ef63a664f0bd)
 
 4. Now run the tool
 
+```bash
 python image_encryptor.py
-
+```
 ![7](https://github.com/user-attachments/assets/f8194a90-ce8e-40ae-be6b-d16510e2c9fe)
 
 5. Now u can see the encrypted and decrypted file in the list directory then use eog tool to open the .png image file
 
+```bash
  eog encrypted_image.png
-
+```
  ![8](https://github.com/user-attachments/assets/147e87e2-d108-4bc8-a977-3caae55141d8)
 
 This is the image that is encrypted 
 
 ![9](https://github.com/user-attachments/assets/67476c28-625b-49e6-b44e-c1b185757600)
 
-Now decrypted_image.png
+Now ,
 
+```bash
+eog decrypted_image.png
+```
 ![10](https://github.com/user-attachments/assets/81d79b5d-9be7-409a-8de9-4041c4fab215)
 
 This is the decrypted image that we used to encrypt
 
 ![11](https://github.com/user-attachments/assets/12f838cd-1f7d-4382-8606-d295ad00da7b)
 
-Additional Notes
+
+## Additional Notes
 
 Image Formats: Ensure that input_image.png is in a format supported by Pillow. If your image is in a different format, update the script accordingly.
 
 Key: The key should be kept secret for security purposes. If you change the key, ensure to use the same key for both encryption and decryption. Here in my case I used 123 as a key for both purposes  
 
-Conclusion
+## Conclusion
 
 This Simple Image Encryption Tool offers a basic introduction to image encryption through direct pixel manipulation techniques. Utilizing XOR operations with a consistent key, this tool serves as an accessible starting point for understanding image encryption and decryption processes.
 
